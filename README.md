@@ -5,7 +5,7 @@ you need to create line item on DFP
 
 change the defineSlot parameter on the script
 
-call this js from your <head> or <footer>
+call this js from your head or footer
 ```html
 <script src="/path/to/auto-gen-dfp.js"></script>
 ```

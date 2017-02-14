@@ -10,5 +10,7 @@ call this js from your <head> or <footer>
 <script src="/path/to/auto-gen-dfp.js"></script>
 ```
 
-and place ```html <div id="ad#"></div> ``` as the placement
-change the id as you define in the js (ad1, ad2, ad3...)
+and place div as the placement with id as you define in the js (ad1, ad2, ad3...)
+```html
+<div id="ad1"></div>
+```
